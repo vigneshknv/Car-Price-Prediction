@@ -1,2 +1,2 @@
 # CarPricePrediction
-Regression model to predict car price using multiple features
+Regression model to predict car price
